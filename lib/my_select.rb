@@ -4,7 +4,7 @@ def my_select(collection)
  
  new_nba = []
  
- 
+ while i < collection.length 
  
  
 end
