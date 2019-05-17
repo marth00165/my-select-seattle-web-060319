@@ -8,7 +8,7 @@ def my_select(collection)
  
  if yield (collection[i]) == true 
    
-   new_nba
+   new_nba.push(collection)
  
  
 end
