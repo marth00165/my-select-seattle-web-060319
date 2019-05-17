@@ -11,4 +11,6 @@ def my_select(collection)
    new_nba.push(collection[i])
  
  
+ end
+ 
 end
